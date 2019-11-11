@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterA/Die.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterA/Idle.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterA/Run.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterB/Die.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterB/Idle.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterB/Run.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterC/Die.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterC/Idle.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterC/Run.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterD/Die.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterD/Idle.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/MonsterD/Run.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/Player/Celebrate.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/Player/Die.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/Player/Idle.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/Player/Jump.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Sprites/Player/Run.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/Gem.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/PlatformTiles.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Textures/TitleScreen.png</File>
+    <File>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Fonts/Pericles8.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

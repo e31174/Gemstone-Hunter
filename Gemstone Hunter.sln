@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemstone Hunter", "Gemstone Hunter\Gemstone Hunter.csproj", "{95E19A88-DE31-457F-93E6-912CE4ECA772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tile Engine", "Tile Engine\Tile Engine.csproj", "{4DE4FA30-E28C-40A1-AB23-8797F58C9D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level Editor", "Level Editor\Level Editor.csproj", "{909CBD5D-2E46-4BAA-99DD-51A17397C431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E19A88-DE31-457F-93E6-912CE4ECA772}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{95E19A88-DE31-457F-93E6-912CE4ECA772}.Debug|x86.ActiveCfg = Debug|x86
+		{95E19A88-DE31-457F-93E6-912CE4ECA772}.Debug|x86.Build.0 = Debug|x86
+		{95E19A88-DE31-457F-93E6-912CE4ECA772}.Release|Any CPU.ActiveCfg = Release|x86
+		{95E19A88-DE31-457F-93E6-912CE4ECA772}.Release|x86.ActiveCfg = Release|x86
+		{95E19A88-DE31-457F-93E6-912CE4ECA772}.Release|x86.Build.0 = Release|x86
+		{4DE4FA30-E28C-40A1-AB23-8797F58C9D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE4FA30-E28C-40A1-AB23-8797F58C9D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE4FA30-E28C-40A1-AB23-8797F58C9D38}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4DE4FA30-E28C-40A1-AB23-8797F58C9D38}.Debug|x86.Build.0 = Debug|Any CPU
+		{4DE4FA30-E28C-40A1-AB23-8797F58C9D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE4FA30-E28C-40A1-AB23-8797F58C9D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE4FA30-E28C-40A1-AB23-8797F58C9D38}.Release|x86.ActiveCfg = Release|Any CPU
+		{4DE4FA30-E28C-40A1-AB23-8797F58C9D38}.Release|x86.Build.0 = Release|Any CPU
+		{909CBD5D-2E46-4BAA-99DD-51A17397C431}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{909CBD5D-2E46-4BAA-99DD-51A17397C431}.Debug|x86.ActiveCfg = Debug|x86
+		{909CBD5D-2E46-4BAA-99DD-51A17397C431}.Debug|x86.Build.0 = Debug|x86
+		{909CBD5D-2E46-4BAA-99DD-51A17397C431}.Release|Any CPU.ActiveCfg = Release|x86
+		{909CBD5D-2E46-4BAA-99DD-51A17397C431}.Release|x86.ActiveCfg = Release|x86
+		{909CBD5D-2E46-4BAA-99DD-51A17397C431}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/Fonts/Pericles8.spritefont</SourceFile>
+  <SourceTime>2018-02-13T14:06:56-05:00</SourceTime>
+  <DestFile>C:/Users/Nickolas/Desktop/Gemstone Hunter/Level Editor/Content/bin/Windows/Fonts/Pericles8.xnb</DestFile>
+  <DestTime>2018-02-28T20:36:18.4985635-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

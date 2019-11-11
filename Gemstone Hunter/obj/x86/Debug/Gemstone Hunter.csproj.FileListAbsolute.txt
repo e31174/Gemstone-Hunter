@@ -1,0 +1,101 @@
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\obj\x86\Debug\Gemstone Hunter.csprojResolveAssemblyReference.cache
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Fonts\Pericles8.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Gem.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\PlatformTiles.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterA\Die.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterA\Idle.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterA\Run.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterB\Die.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterB\Idle.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterB\Run.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterC\Die.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterC\Idle.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterC\Run.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterD\Die.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterD\Idle.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterD\Run.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Celebrate.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Die.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Idle.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Jump.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Run.xnb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Gemstone Hunter.exe
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Gemstone Hunter.pdb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Tile Engine.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Tile Engine.pdb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\obj\x86\Debug\Gemstone Hunter.exe
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\obj\x86\Debug\Gemstone Hunter.pdb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Fonts\Pericles8.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Gem.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\PlatformTiles.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterA\Die.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterA\Idle.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterA\Run.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterB\Die.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterB\Idle.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterB\Run.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterC\Die.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterC\Idle.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterC\Run.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterD\Die.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterD\Idle.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\MonsterD\Run.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Celebrate.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Die.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Idle.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Jump.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Textures\Sprites\Player\Run.xnb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Gemstone Hunter.exe
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Gemstone Hunter.pdb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Tile Engine.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Tile Engine.pdb
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\obj\x86\Debug\Gemstone Hunter.csprojResolveAssemblyReference.cache
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\obj\x86\Debug\Gemstone Hunter.exe
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\obj\x86\Debug\Gemstone Hunter.pdb
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Maps\MAP000.MAP
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Maps\MAP001.MAP
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Maps\MAP000.MAP
+C:\Users\001265091\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Maps\MAP001.MAP
+C:\Users\Nickolas\Desktop\Gemstone Hunter\Gemstone Hunter\bin\Windows\x86\Debug\Content\Maps\MAP002.MAP
